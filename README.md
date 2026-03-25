@@ -1,9 +1,5 @@
 # Hi there, I'm S0ngRu1 👋
 
-<p align="center">
-  <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/6b2cc0e5-04d9-480d-a2fe-ae0998168970" />
-</p>
-
 ## 🧑‍💻 About Me
 - 🎓 **Graduate Student** focusing on **Lightning Detection** & **Multimodal Fake News Detection**.
 - 🤖 **NLP Algorithm Engineer** specializing in **LLMs**, **RAG**, and **CLIP** models.
