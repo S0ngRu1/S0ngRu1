@@ -1,7 +1,8 @@
 # Hi there, I'm S0ngRu1 👋
 
 <p align="center">
-  [<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=S0ngRu1&fontSize=90&animation=fadeIn&desc=NLP%20%7C%20Backend%20%7C%20LLM%20Engineer&descAlignY=75&descAlign=50" />](https://avatars.githubusercontent.com/u/88882755?v=4)
+  <img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/6b2cc0e5-04d9-480d-a2fe-ae0998168970" />
+
 </p>
 
 ## 🧑‍💻 About Me
