@@ -1,8 +1,7 @@
 # Hi there, I'm S0ngRu1 👋
 
 <p align="center">
-  <img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/6b2cc0e5-04d9-480d-a2fe-ae0998168970" />
-
+  <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/6b2cc0e5-04d9-480d-a2fe-ae0998168970" />
 </p>
 
 ## 🧑‍💻 About Me
@@ -34,14 +33,14 @@
 ## 📊 GitHub Data Hub (Data-Driven)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S0ngRu1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0ngRu1&layout=compact&theme=transparent&hide=matlab" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S0ngRu1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0ngRu1&layout=compact&theme=radical&hide=matlab" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S0ngRu1&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S0ngRu1&theme=radical" />
 </p>
-
 ---
 
 ## 🔭 Currently Working On
