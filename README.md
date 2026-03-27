@@ -53,4 +53,3 @@
   - 📧 **Email**: [1922909737@qq.com](mailto:1922909737@qq.com)
   - 💬 **Ask me about**: NLP algorithms, LLM deployment, or the journey from **Python Expert** to **Gopher**.
 
-\<p align="right"\>(Last updated: Mar 2026)\</p\>
