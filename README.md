@@ -17,7 +17,11 @@
   * **Expertise**: Multimodal Fusion, Semantic Retrieval, Cross-Modal Attention.
 
 ### 💻 Backend & Infrastructure
-
+  * Go (Golang) + Gin
+  * FastAPI
+  * LLM Gateway / API Proxy Design
+  * Docker / Microservices
+  * Model Routing / Load Balancing / Cost Tracking
 -----
 
 ## 🚀 Key Projects
