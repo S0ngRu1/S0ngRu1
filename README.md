@@ -50,6 +50,6 @@
 
 ## 📫 Get in Touch
 
-  - 📧 **Email**: [1922909737@qq.com](mailto:1922909737@qq.com)
+  - 📧 **Email**: [kardhbped@gmail.com](mailto:kardhbped@gmail.com)
   - 💬 **Ask me about**: NLP algorithms, LLM deployment, or the journey from **Python Expert** to **Gopher**.
 
